@@ -76,4 +76,4 @@ AI-powered applications built with Python, Streamlit, and Large Language Models.
 
 ## 📸 App Preview
 
-![App Preview](app_photo.png)
+![App Preview](Screenshots/app_photo.png)
