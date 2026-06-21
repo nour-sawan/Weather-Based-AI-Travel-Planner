@@ -1,0 +1,260 @@
+{
+  "istanbul": [
+    {
+      "name": "Walk from Karaköy to Galata Tower at sunset along the Bosphorus waterfront",
+      "type": "Outdoor",
+      "tags": ["walking", "views", "photography", "sunset"],
+      "avoid_tags": ["crowds", "nightlife"],
+      "score": 9
+    },
+    {
+      "name": "Coffee at Mandabatmaz in Beyoğlu, then stroll İstiklal Street after dark",
+      "type": "Relax",
+      "tags": ["food", "coffee", "nightlife", "walking"],
+      "avoid_tags": ["crowds"],
+      "score": 8
+    },
+    {
+      "name": "Morning visit to Süleymaniye Mosque terrace overlooking the Golden Horn",
+      "type": "Outdoor",
+      "tags": ["history", "architecture", "walking", "morning"],
+      "avoid_tags": ["crowds"],
+      "score": 9
+    },
+    {
+      "name": "Lunch at Çiya Sofrası in Kadıköy Moda, then walk Moda seaside park",
+      "type": "Outdoor",
+      "tags": ["food", "walking", "local", "nature"],
+      "avoid_tags": ["crowds", "hot weather"],
+      "score": 9
+    },
+    {
+      "name": "Explore the covered Spice Bazaar, then tea at Hafiz Mustafa near Eminönü",
+      "type": "Indoor",
+      "tags": ["food", "history", "shopping", "rainy"],
+      "avoid_tags": ["crowds"],
+      "score": 8
+    },
+    {
+      "name": "Evening ferry from Eminönü to Üsküdar for skyline views of Old Istanbul",
+      "type": "Outdoor",
+      "tags": ["views", "water", "evening", "photography"],
+      "avoid_tags": ["hot weather"],
+      "score": 9
+    },
+    {
+      "name": "Browse contemporary art at Istanbul Modern, then walk Karaköy pier",
+      "type": "Indoor",
+      "tags": ["museums", "art", "rainy", "indoor"],
+      "avoid_tags": ["crowds"],
+      "score": 8
+    },
+    {
+      "name": "Breakfast at Van Kahvaltı Evi in Cihangir, then quiet walk in Cihangir alleys",
+      "type": "Relax",
+      "tags": ["food", "walking", "morning", "local"],
+      "avoid_tags": ["crowds", "nightlife"],
+      "score": 8
+    },
+    {
+      "name": "Visit Hagia Sophia and Blue Mosque early morning before tour groups arrive",
+      "type": "Outdoor",
+      "tags": ["history", "architecture", "morning"],
+      "avoid_tags": ["crowds"],
+      "score": 9
+    },
+    {
+      "name": "Relax in shaded paths at Emirgan Park with Bosphorus views",
+      "type": "Relax",
+      "tags": ["nature", "walking", "views", "relax"],
+      "avoid_tags": ["hot weather", "crowds"],
+      "score": 8
+    },
+    {
+      "name": "Dinner at Balıkçı Sabahattin in Sultanahmet, then night walk near Hippodrome",
+      "type": "Relax",
+      "tags": ["food", "seafood", "evening", "history"],
+      "avoid_tags": ["hot weather"],
+      "score": 8
+    },
+    {
+      "name": "Shop and taste baklava along Istiklal side streets near Galatasaray Lisesi",
+      "type": "Indoor",
+      "tags": ["food", "shopping", "rainy", "indoor"],
+      "avoid_tags": ["hiking"],
+      "score": 7
+    }
+  ],
+  "paris": [
+    {
+      "name": "Morning croissants at Du Pain et des Idées in Canal Saint-Martin, then canal walk",
+      "type": "Relax",
+      "tags": ["food", "walking", "morning", "local"],
+      "avoid_tags": ["crowds"],
+      "score": 9
+    },
+    {
+      "name": "Sunset picnic at Champ de Mars with Eiffel Tower views (avoid midday heat)",
+      "type": "Outdoor",
+      "tags": ["views", "evening", "relax", "photography"],
+      "avoid_tags": ["hot weather", "crowds"],
+      "score": 8
+    },
+    {
+      "name": "Browse Musée d'Orsay impressionist galleries, then walk along the Left Bank",
+      "type": "Indoor",
+      "tags": ["museums", "art", "rainy", "walking"],
+      "avoid_tags": ["crowds"],
+      "score": 9
+    },
+    {
+      "name": "Explore Marché des Enfants Rouges in Le Marais for lunch, then Place des Vosges",
+      "type": "Outdoor",
+      "tags": ["food", "local", "history", "walking"],
+      "avoid_tags": ["nightlife"],
+      "score": 9
+    },
+    {
+      "name": "Evening stroll from Pont Neuf to Île Saint-Louis for Berthillon ice cream",
+      "type": "Outdoor",
+      "tags": ["food", "evening", "walking", "views"],
+      "avoid_tags": ["hot weather"],
+      "score": 8
+    },
+    {
+      "name": "Visit Sainte-Chapelle stained glass in the morning, then Latin Quarter bookshops",
+      "type": "Indoor",
+      "tags": ["history", "architecture", "morning", "rainy"],
+      "avoid_tags": ["crowds"],
+      "score": 9
+    },
+    {
+      "name": "Coffee at Café de Flore in Saint-Germain, then walk Luxembourg Gardens paths",
+      "type": "Relax",
+      "tags": ["coffee", "walking", "nature", "relax"],
+      "avoid_tags": ["crowds", "nightlife"],
+      "score": 8
+    },
+    {
+      "name": "Explore covered passages (Galerie Vivienne, Passage des Panoramas) on a rainy day",
+      "type": "Indoor",
+      "tags": ["rainy", "indoor", "history", "shopping"],
+      "avoid_tags": ["hiking"],
+      "score": 8
+    },
+    {
+      "name": "Montmartre morning walk from Abbesses to Sacré-Cœur before peak crowds",
+      "type": "Outdoor",
+      "tags": ["walking", "views", "morning", "photography"],
+      "avoid_tags": ["crowds", "hot weather"],
+      "score": 8
+    },
+    {
+      "name": "Wine and cheese at Le Baron Rouge near Marché d'Aligre in Bastille",
+      "type": "Relax",
+      "tags": ["food", "local", "evening", "wine"],
+      "avoid_tags": ["hiking"],
+      "score": 8
+    },
+    {
+      "name": "Visit Centre Pompidou modern art, then wander Rue Montorgueil food shops",
+      "type": "Indoor",
+      "tags": ["museums", "art", "food", "rainy"],
+      "avoid_tags": ["crowds"],
+      "score": 8
+    },
+    {
+      "name": "Evening Seine walk from Pont Alexandre III to Musée du Quai Branly lights",
+      "type": "Outdoor",
+      "tags": ["walking", "evening", "views", "photography"],
+      "avoid_tags": ["hot weather"],
+      "score": 9
+    }
+  ],
+  "london": [
+    {
+      "name": "Morning walk through Borough Market tastings, then Thames Path to Tower Bridge",
+      "type": "Outdoor",
+      "tags": ["food", "walking", "morning", "views"],
+      "avoid_tags": ["crowds"],
+      "score": 9
+    },
+    {
+      "name": "Visit British Museum early opening, then coffee on Russell Square",
+      "type": "Indoor",
+      "tags": ["museums", "history", "morning", "rainy"],
+      "avoid_tags": ["crowds"],
+      "score": 9
+    },
+    {
+      "name": "Sunset views from Primrose Hill over Regent's Park and the skyline",
+      "type": "Outdoor",
+      "tags": ["views", "nature", "evening", "photography"],
+      "avoid_tags": ["hot weather", "crowds"],
+      "score": 8
+    },
+    {
+      "name": "Explore Tate Modern galleries, then walk Millennium Bridge to St Paul's",
+      "type": "Indoor",
+      "tags": ["museums", "art", "walking", "rainy"],
+      "avoid_tags": ["hiking"],
+      "score": 9
+    },
+    {
+      "name": "Afternoon tea at Fortnum & Mason, then stroll through St James's Park",
+      "type": "Relax",
+      "tags": ["food", "relax", "nature", "history"],
+      "avoid_tags": ["nightlife"],
+      "score": 8
+    },
+    {
+      "name": "Brick Lane curry lunch, then street art walk around Shoreditch",
+      "type": "Outdoor",
+      "tags": ["food", "art", "walking", "local"],
+      "avoid_tags": ["crowds"],
+      "score": 8
+    },
+    {
+      "name": "Visit Victoria and Albert Museum design galleries on a rainy afternoon",
+      "type": "Indoor",
+      "tags": ["museums", "art", "rainy", "indoor"],
+      "avoid_tags": ["hot weather"],
+      "score": 8
+    },
+    {
+      "name": "Covent Garden morning browse, then Neal's Yard hidden courtyard coffee",
+      "type": "Relax",
+      "tags": ["shopping", "coffee", "morning", "local"],
+      "avoid_tags": ["crowds"],
+      "score": 8
+    },
+    {
+      "name": "Walk the South Bank from Westminster to Southwark at golden hour",
+      "type": "Outdoor",
+      "tags": ["walking", "views", "evening", "photography"],
+      "avoid_tags": ["hot weather"],
+      "score": 9
+    },
+    {
+      "name": "Explore Camden Market food stalls, then Regent's Canal towpath walk",
+      "type": "Outdoor",
+      "tags": ["food", "walking", "local", "nature"],
+      "avoid_tags": ["crowds"],
+      "score": 8
+    },
+    {
+      "name": "Visit Natural History Museum dinosaurs, then Hyde Park Serpentine walk",
+      "type": "Indoor",
+      "tags": ["museums", "nature", "family", "rainy"],
+      "avoid_tags": ["nightlife"],
+      "score": 8
+    },
+    {
+      "name": "Pub dinner at The George Inn near London Bridge, then Thames night views",
+      "type": "Relax",
+      "tags": ["food", "evening", "history", "local"],
+      "avoid_tags": ["hiking"],
+      "score": 7
+    }
+  ]
+}
