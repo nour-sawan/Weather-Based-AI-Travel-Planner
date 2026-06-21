@@ -40,7 +40,9 @@ Evaluator Agent
 Fallback Agent
      ↓
 UI Presentation
+```
 
+---
 
 ## Tech Stack
 
@@ -61,6 +63,7 @@ Create a `.env` file:
 ```env
 OPENAI_API_KEY=your_key
 OPENWEATHER_API_KEY=your_key
+```
 
 ## Run the App
 python -m streamlit run app/ui.py
