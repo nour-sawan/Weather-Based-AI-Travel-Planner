@@ -3,6 +3,9 @@ import os
 import sys
 import time
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from styles import APP_STYLES
+
 import geonamescache
 import plotly.graph_objects as go
 import streamlit as st
@@ -15,7 +18,6 @@ from agents.activity_agent import (
 from agents.evaluator_agent import evaluate_activity_with_llm
 from agents.fallback_agent import generate_fallback
 from services.weather_service import get_weather
-from styles import APP_STYLES
 from utils.user_profile import load_profile, save_profile
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
