@@ -6,15 +6,15 @@ An AI-powered travel planning application that combines real-time weather data a
 
 The application allows users to:
 
-- Select a country and city.
-- Provide personal preferences (likes and dislikes).
-- Retrieve live weather information.
-- Generate personalized activities using AI.
-- Evaluate recommendation quality.
-- Produce fallback recommendations when necessary.
-- Display ranked experiences through an interactive Streamlit interface.
+- Select a country and city
+- Provide personal preferences (likes and dislikes)
+- Retrieve live weather information
+- Generate personalized activities using AI
+- Evaluate recommendation quality
+- Produce fallback recommendations when necessary
+- Display ranked experiences through an interactive Streamlit interface
 
-# Features
+## Features
 
 - Real-time weather integration using OpenWeatherMap
 - AI-powered hyper-local travel recommendations
@@ -24,9 +24,7 @@ The application allows users to:
 - Ranking system for best experiences
 - Streamlit interactive UI
 
-# System Architecture
-
-The system follows a multi-agent architecture:
+## System Architecture
 
 ```text
 User Input
@@ -42,7 +40,8 @@ Evaluator Agent
 Fallback Agent
      ↓
 UI Presentation
-```
+
+
 ## Tech Stack
 
 - Python
@@ -53,27 +52,18 @@ UI Presentation
 - python-dotenv
 - GeonamesCache
 
-## 🔑 Environment Variables 
+---
 
-```markdown
-## Environment Variables
+## 🔑 Environment Variables
 
 Create a `.env` file:
 
+```env
 OPENAI_API_KEY=your_key
 OPENWEATHER_API_KEY=your_key
 
-## Run
-
-```bash
- python -m streamlit run app\ui.py
-
-# Author
-
-**Nour Sawan**
-
-AI-powered applications built with Python, Streamlit, and Large Language Models.
+## Run the App
+python -m streamlit run app/ui.py
 
 ## 📸 App Preview
-
 ![App Preview](screenshots/app_photo.png)
