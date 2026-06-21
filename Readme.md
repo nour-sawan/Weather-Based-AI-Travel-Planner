@@ -74,6 +74,6 @@ OPENWEATHER_API_KEY=your_key
 
 AI-powered applications built with Python, Streamlit, and Large Language Models.
 
-# App Preview
+## 📸 App Preview
 
 ![App Preview](app_photo.png)
